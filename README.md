@@ -1,0 +1,1 @@
+# macOS-11-icon-theme
